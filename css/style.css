@@ -1,0 +1,53 @@
+.title{
+    font-size: 200%;
+    color: #46A04F;
+    font-weight: 500;
+   
+}
+
+img{
+    width: 100px;
+    height: 150px;
+}
+
+.package{
+    border: 2px solid #46A04F;
+    margin: 10px 10px 30px;
+     border-radius: 2%;
+}
+
+.button-primary{
+    background: #46A04F;
+    color: aliceblue;
+    border-radius: 2%;
+    border: none ;
+    text-align: center;
+    width: 80%;
+    font-weight: 700;
+    padding: 8px;
+    margin: 10px 10px 30px;
+}
+
+
+.button-primary:hover{
+    background: #53d360;
+}
+
+.button-primary:active{
+    background: #102c13;
+}
+
+.price{
+     margin: 10px;
+    font-weight: 700;
+}
+
+.modal-open{
+    padding-right: 0px; 
+    display: block;
+}
+
+td img{
+    width: 50px;
+    height: 80px;
+}
